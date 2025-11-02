@@ -1,0 +1,1439 @@
+fileFormatVersion: 2
+guid: ec7814db7ece0a64e83649a1964369aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1592250496056324625
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_0
+  - first:
+      213: -7047022426292915847
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_1
+  - first:
+      213: -6296580629851981560
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_2
+  - first:
+      213: -5914782874861904335
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_3
+  - first:
+      213: -7750403100595458235
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_4
+  - first:
+      213: -6776554605902818133
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_5
+  - first:
+      213: -5998492832058959469
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_6
+  - first:
+      213: 3143739678815111650
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_7
+  - first:
+      213: -78224618591867954
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_8
+  - first:
+      213: 8915800774530132529
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_9
+  - first:
+      213: 4316762276496947712
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_10
+  - first:
+      213: 8382456124613219552
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_11
+  - first:
+      213: 4937916124839695864
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_12
+  - first:
+      213: -4738435931157721538
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_13
+  - first:
+      213: 8844010443931396701
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_14
+  - first:
+      213: 2636740400827964710
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_15
+  - first:
+      213: -6559143794337554465
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_16
+  - first:
+      213: -3229287181689343988
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_17
+  - first:
+      213: 4100631857779561593
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_18
+  - first:
+      213: -911465001070946604
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_19
+  - first:
+      213: -6846495657382465103
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_20
+  - first:
+      213: 8424706750194234031
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_21
+  - first:
+      213: 1165312187196083647
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_22
+  - first:
+      213: 7884861335077676041
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_23
+  - first:
+      213: -5389795586125900633
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_24
+  - first:
+      213: -7387139512241005186
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_25
+  - first:
+      213: -5560300574338202554
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_26
+  - first:
+      213: 2610802884396220065
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_27
+  - first:
+      213: 7341651330639119959
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_28
+  - first:
+      213: 1873480319873419305
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_29
+  - first:
+      213: 2232382082209025012
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_30
+  - first:
+      213: 7433622794080325706
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_31
+  - first:
+      213: 1172541683392204600
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_32
+  - first:
+      213: 8880103054407142643
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_33
+  - first:
+      213: -8579955836921655136
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_34
+  - first:
+      213: -1092171426545165718
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_35
+  - first:
+      213: -5035886977043897580
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_36
+  - first:
+      213: 242538449677284385
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_37
+  - first:
+      213: 2466840277913498506
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_38
+  - first:
+      213: -9676795169877190
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_39
+  - first:
+      213: -1298471480854776989
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_40
+  - first:
+      213: -6860019424373624163
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_41
+  - first:
+      213: 7468245900823782875
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_42
+  - first:
+      213: -1615110756781106235
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_43
+  - first:
+      213: 514169292476798995
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_44
+  - first:
+      213: -5902037359959988762
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_45
+  - first:
+      213: -7724284646834747401
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_46
+  - first:
+      213: -793300122454975951
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_47
+  - first:
+      213: -5944451196775211844
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_48
+  - first:
+      213: -8773123719394615547
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_49
+  - first:
+      213: 4665317656002943983
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_50
+  - first:
+      213: -526267613498120081
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_51
+  - first:
+      213: -5752544615243791007
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_52
+  - first:
+      213: -251366888169188951
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_53
+  - first:
+      213: 8088774203079138593
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_54
+  - first:
+      213: -2900197940380183284
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_55
+  - first:
+      213: -9029840190334352062
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_56
+  - first:
+      213: 2772294426133667794
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_57
+  - first:
+      213: 914689829978682216
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_58
+  - first:
+      213: -3093108955194600809
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_59
+  - first:
+      213: -2743022554597024874
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_60
+  - first:
+      213: -4122806263772690255
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_61
+  - first:
+      213: -1517155406035658013
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_62
+  - first:
+      213: 5643363726483667465
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_63
+  - first:
+      213: -1518860789750804269
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_64
+  - first:
+      213: -8021888487957882774
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_65
+  - first:
+      213: 63353174071246182
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_66
+  - first:
+      213: -3892258045395871378
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_67
+  - first:
+      213: 8136546297067509385
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_68
+  - first:
+      213: -7151177193937574422
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_69
+  - first:
+      213: -8627366236595436399
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_70
+  - first:
+      213: -433864143413295058
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_71
+  - first:
+      213: 1935761587519672750
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_72
+  - first:
+      213: 4738527939904115764
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_73
+  - first:
+      213: -8041586831722518537
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_74
+  - first:
+      213: 2990557158249278874
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_75
+  - first:
+      213: 3425759032338064584
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_76
+  - first:
+      213: -7746157047729387943
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_77
+  - first:
+      213: -6752875477547640544
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_78
+  - first:
+      213: 3837441007322488731
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_79
+  - first:
+      213: 2764061959411363493
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_80
+  - first:
+      213: 5694153117628506187
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_81
+  - first:
+      213: -1493246913261435588
+    second: Crisanta_upwardSlash_to_guard_to_downwardSlash_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1552
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11270ead36fc81610800000000000000
+      internalID: 1592250496056324625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1553
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9717994a072f33e90800000000000000
+      internalID: -7047022426292915847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1553
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093112274d0e98a0800000000000000
+      internalID: -6296580629851981560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1553
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eda4c20587aeda0800000000000000
+      internalID: -5914782874861904335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_4
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1553
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54febe28179017490800000000000000
+      internalID: -7750403100595458235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_5
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1553
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4102a5d77d4f1a0800000000000000
+      internalID: -6776554605902818133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_6
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1553
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3991665fc8211cca0800000000000000
+      internalID: -5998492832058959469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1297
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e94316e49ec0ab20800000000000000
+      internalID: 3143739678815111650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1297
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb2424bf171aeef0800000000000000
+      internalID: -78224618591867954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1297
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a650601994bbb70800000000000000
+      internalID: 8915800774530132529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a38665b6838eb30800000000000000
+      internalID: 4316762276496947712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1296
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55eb7ad80078440800000000000000
+      internalID: 4937916124839695864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_14
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a206424ac3cba70800000000000000
+      internalID: 8844010443931396701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_16
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1297
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf5dcb887d39f4a0800000000000000
+      internalID: -6559143794337554465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1043
+        width: 231
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a45ff488799335b0800000000000000
+      internalID: -5389795586125900633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1041
+        width: 224
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5f9a90cb9b7990800000000000000
+      internalID: -7387139512241005186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1040
+        width: 154
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 0, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644cb2e5618d5d2b0800000000000000
+      internalID: -5560300574338202554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 264
+        width: 206
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae7007046f6b3420800000000000000
+      internalID: 2610802884396220065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_28
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 267
+        width: 211
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c48bccf8c2e560800000000000000
+      internalID: 7341651330639119959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_29
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 272
+        width: 211
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288dbfbc60fff910800000000000000
+      internalID: 1873480319873419305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_30
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 0
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb04051da30bfe10800000000000000
+      internalID: 2232382082209025012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_37
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1042
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12473695f6bad5300800000000000000
+      internalID: 242538449677284385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_38
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1039
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f8a2b92afb3220800000000000000
+      internalID: 2466840277913498506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_39
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1032
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d55d810f9ddff0800000000000000
+      internalID: -9676795169877190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_40
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1042
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363fca85117eafde0800000000000000
+      internalID: -1298471480854776989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 786
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5208c9a40c71ea0800000000000000
+      internalID: -5902037359959988762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 786
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74969e904ddc490800000000000000
+      internalID: -7724284646834747401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 787
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a1cc0edb1adf4f0800000000000000
+      internalID: -793300122454975951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_48
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 787
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc519fa121118da0800000000000000
+      internalID: -5944451196775211844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_49
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 785
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1eee857a9f3680800000000000000
+      internalID: -8773123719394615547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_50
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 785
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd962b0b98eb040800000000000000
+      internalID: 4665317656002943983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_51
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 785
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e6a0d46252b8f0800000000000000
+      internalID: -526267613498120081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 529
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165cec5962bda20b0800000000000000
+      internalID: -5752544615243791007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_53
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 529
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15162a527f28cf0800000000000000
+      internalID: -251366888169188951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_54
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 529
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d10e21849114070800000000000000
+      internalID: 8088774203079138593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_55
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 529
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05d151d65d60c7d0800000000000000
+      internalID: -2900197940380183284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_56
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 530
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245439460309fa280800000000000000
+      internalID: -9029840190334352062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_57
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 531
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1e72a71b297620800000000000000
+      internalID: 2772294426133667794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_58
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 530
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ba8bdd81a1bc00800000000000000
+      internalID: 914689829978682216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 194
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792db021bc11315d0800000000000000
+      internalID: -3093108955194600809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_60
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 268
+        width: 191
+        height: 159
+      alignment: 9
+      pivot: {x: 0.42119035, y: 0.34024277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1c5e0583dee9d0800000000000000
+      internalID: -2743022554597024874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_76
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 274
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4a89080bdba8f20800000000000000
+      internalID: 3425759032338064584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_80
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 18
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae62eb15bbeb5620800000000000000
+      internalID: 2764061959411363493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 18
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b402ee07712b50f40800000000000000
+      internalID: 5694153117628506187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_upwardSlash_to_guard_to_downwardSlash_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 16
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c358a1d08dbe64be0800000000000000
+      internalID: -1493246913261435588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f42c37ec18380b478d6b96469387088
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_0: 1592250496056324625
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_1: -7047022426292915847
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_10: 4316762276496947712
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_11: 8382456124613219552
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_12: 4937916124839695864
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_13: -4738435931157721538
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_14: 8844010443931396701
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_15: 2636740400827964710
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_16: -6559143794337554465
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_17: -3229287181689343988
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_18: 4100631857779561593
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_19: -911465001070946604
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_2: -6296580629851981560
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_20: -6846495657382465103
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_21: 8424706750194234031
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_22: 1165312187196083647
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_23: 7884861335077676041
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_24: -5389795586125900633
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_25: -7387139512241005186
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_26: -5560300574338202554
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_27: 2610802884396220065
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_28: 7341651330639119959
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_29: 1873480319873419305
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_3: -5914782874861904335
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_30: 2232382082209025012
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_31: 7433622794080325706
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_32: 1172541683392204600
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_33: 8880103054407142643
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_34: -8579955836921655136
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_35: -1092171426545165718
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_36: -5035886977043897580
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_37: 242538449677284385
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_38: 2466840277913498506
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_39: -9676795169877190
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_4: -7750403100595458235
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_40: -1298471480854776989
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_41: -6860019424373624163
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_42: 7468245900823782875
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_43: -1615110756781106235
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_44: 514169292476798995
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_45: -5902037359959988762
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_46: -7724284646834747401
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_47: -793300122454975951
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_48: -5944451196775211844
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_49: -8773123719394615547
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_5: -6776554605902818133
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_50: 4665317656002943983
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_51: -526267613498120081
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_52: -5752544615243791007
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_53: -251366888169188951
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_54: 8088774203079138593
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_55: -2900197940380183284
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_56: -9029840190334352062
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_57: 2772294426133667794
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_58: 914689829978682216
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_59: -3093108955194600809
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_6: -5998492832058959469
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_60: -2743022554597024874
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_61: -4122806263772690255
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_62: -1517155406035658013
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_63: 5643363726483667465
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_64: -1518860789750804269
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_65: -8021888487957882774
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_66: 63353174071246182
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_67: -3892258045395871378
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_68: 8136546297067509385
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_69: -7151177193937574422
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_7: 3143739678815111650
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_70: -8627366236595436399
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_71: -433864143413295058
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_72: 1935761587519672750
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_73: 4738527939904115764
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_74: -8041586831722518537
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_75: 2990557158249278874
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_76: 3425759032338064584
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_77: -7746157047729387943
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_78: -6752875477547640544
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_79: 3837441007322488731
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_8: -78224618591867954
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_80: 2764061959411363493
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_81: 5694153117628506187
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_82: -1493246913261435588
+      Crisanta_upwardSlash_to_guard_to_downwardSlash_9: 8915800774530132529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

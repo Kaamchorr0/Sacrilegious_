@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 6b0d49e31354bb144b9f910633bfabd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7000172522842115719
+    second: penitent_rangeAttack_shoot_anim_0
+  - first:
+      213: 4760942275492932795
+    second: penitent_rangeAttack_shoot_anim_1
+  - first:
+      213: -724693621631545631
+    second: penitent_rangeAttack_shoot_anim_2
+  - first:
+      213: 1985942912758754961
+    second: penitent_rangeAttack_shoot_anim_3
+  - first:
+      213: 8716301258876066343
+    second: penitent_rangeAttack_shoot_anim_4
+  - first:
+      213: 8984734820677254545
+    second: penitent_rangeAttack_shoot_anim_5
+  - first:
+      213: -6210610036976124791
+    second: penitent_rangeAttack_shoot_anim_6
+  - first:
+      213: -1135013828280218184
+    second: penitent_rangeAttack_shoot_anim_7
+  - first:
+      213: -8300941677388373466
+    second: penitent_rangeAttack_shoot_anim_8
+  - first:
+      213: -4567384235282551007
+    second: penitent_rangeAttack_shoot_anim_9
+  - first:
+      213: 2791778450740052849
+    second: penitent_rangeAttack_shoot_anim_10
+  - first:
+      213: -3202316605247711644
+    second: penitent_rangeAttack_shoot_anim_11
+  - first:
+      213: -3893718826121052574
+    second: penitent_rangeAttack_shoot_anim_12
+  - first:
+      213: 4471417498665100141
+    second: penitent_rangeAttack_shoot_anim_13
+  - first:
+      213: -4621921811933879985
+    second: penitent_rangeAttack_shoot_anim_14
+  - first:
+      213: 1373616714476402439
+    second: penitent_rangeAttack_shoot_anim_15
+  - first:
+      213: -5746809369090200090
+    second: penitent_rangeAttack_shoot_anim_16
+  - first:
+      213: -8167365163235439396
+    second: penitent_rangeAttack_shoot_anim_17
+  - first:
+      213: 69691404150585550
+    second: penitent_rangeAttack_shoot_anim_18
+  - first:
+      213: 8382130213677678897
+    second: penitent_rangeAttack_shoot_anim_19
+  - first:
+      213: -4239965600629216933
+    second: penitent_rangeAttack_shoot_anim_20
+  - first:
+      213: -8914605951218444616
+    second: penitent_rangeAttack_shoot_anim_21
+  - first:
+      213: 432405913663368688
+    second: penitent_rangeAttack_shoot_anim_22
+  - first:
+      213: 3401208307045161358
+    second: penitent_rangeAttack_shoot_anim_23
+  - first:
+      213: 4253266216287835259
+    second: penitent_rangeAttack_shoot_anim_24
+  - first:
+      213: -5341884937204182663
+    second: penitent_rangeAttack_shoot_anim_25
+  - first:
+      213: -6431190556245671474
+    second: penitent_rangeAttack_shoot_anim_26
+  - first:
+      213: 4384589961384011942
+    second: penitent_rangeAttack_shoot_anim_27
+  - first:
+      213: 7702818341346745699
+    second: penitent_rangeAttack_shoot_anim_28
+  - first:
+      213: -2705531892063092822
+    second: penitent_rangeAttack_shoot_anim_29
+  - first:
+      213: 8991986194193669570
+    second: penitent_rangeAttack_shoot_anim_30
+  - first:
+      213: 5931956892349663849
+    second: penitent_rangeAttack_shoot_anim_31
+  - first:
+      213: 4227738442921974613
+    second: penitent_rangeAttack_shoot_anim_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 397
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.64347017, y: 0.47572708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e447e22db952160800000000000000
+      internalID: 7000172522842115719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 396
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6036806, y: 0.476698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc65e666c3421240800000000000000
+      internalID: 4760942275492932795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 396
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee09af9dfe51f5f0800000000000000
+      internalID: -724693621631545631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 396
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea033ae8c7f8b10800000000000000
+      internalID: 1985942912758754961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_4
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 396
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a199260d586f870800000000000000
+      internalID: 8716301258876066343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_5
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 396
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dfc8b57b030bc70800000000000000
+      internalID: 8984734820677254545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_6
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 396
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cff8b931b7fc9a0800000000000000
+      internalID: -6210610036976124791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_7
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 396
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd833ecfee9f30f0800000000000000
+      internalID: -1135013828280218184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e70256812dcc80800000000000000
+      internalID: -8300941677388373466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 268
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632662468aad0e30800000000000000
+      internalID: 4471417498665100141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_14
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 268
+        width: 68
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54655546, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f412d0c9992abdfb0800000000000000
+      internalID: -4621921811933879985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_15
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 268
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b7e3cf11101310800000000000000
+      internalID: 1373616714476402439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_16
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 268
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eded73a35b3f30b0800000000000000
+      internalID: -5746809369090200090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_17
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 268
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc837618a0b7ae80800000000000000
+      internalID: -8167365163235439396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 140
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec83b4c76f797f000800000000000000
+      internalID: 69691404150585550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 140
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c357d40f435470800000000000000
+      internalID: 8382130213677678897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 140
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ae9220cd9825c0800000000000000
+      internalID: -4239965600629216933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_27
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 140
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a90ed65139dc30800000000000000
+      internalID: 4384589961384011942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_28
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 140
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d165d5878e5ea60800000000000000
+      internalID: 7702818341346745699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_29
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 140
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb6152415047ad0800000000000000
+      internalID: -2705531892063092822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a8e6f5d5b825250800000000000000
+      internalID: 5931956892349663849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 12
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b90add6b1fbaa30800000000000000
+      internalID: 4227738442921974613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 269
+        width: 63
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6387092, y: 0.45684662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05486f7a3809640aa7ced0d14ccc1c
+      internalID: 1956439478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 269
+        width: 62
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6409469, y: 0.45684662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d18c9a55baeff42bd76059746a3f98
+      internalID: 1828369089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_35
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 269
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1b8ea88f508143a5e902a6f82b381
+      internalID: -713871074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 141
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d79652f0252da49b0553e34a999de6
+      internalID: -1481844210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_shoot_anim_37
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 141
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc6754abd69e949a4cd435ef7427df
+      internalID: -1157040725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a5a1a5b8bb20ff6419de8c186f62d94d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      penitent_rangeAttack_shoot_anim_0: 7000172522842115719
+      penitent_rangeAttack_shoot_anim_1: 4760942275492932795
+      penitent_rangeAttack_shoot_anim_10: 2791778450740052849
+      penitent_rangeAttack_shoot_anim_11: -3202316605247711644
+      penitent_rangeAttack_shoot_anim_12: -3893718826121052574
+      penitent_rangeAttack_shoot_anim_13: 4471417498665100141
+      penitent_rangeAttack_shoot_anim_14: -4621921811933879985
+      penitent_rangeAttack_shoot_anim_15: 1373616714476402439
+      penitent_rangeAttack_shoot_anim_16: -5746809369090200090
+      penitent_rangeAttack_shoot_anim_17: -8167365163235439396
+      penitent_rangeAttack_shoot_anim_18: 69691404150585550
+      penitent_rangeAttack_shoot_anim_19: 8382130213677678897
+      penitent_rangeAttack_shoot_anim_2: -724693621631545631
+      penitent_rangeAttack_shoot_anim_20: -4239965600629216933
+      penitent_rangeAttack_shoot_anim_21: -8914605951218444616
+      penitent_rangeAttack_shoot_anim_22: 432405913663368688
+      penitent_rangeAttack_shoot_anim_23: 3401208307045161358
+      penitent_rangeAttack_shoot_anim_24: 4253266216287835259
+      penitent_rangeAttack_shoot_anim_25: -5341884937204182663
+      penitent_rangeAttack_shoot_anim_26: -6431190556245671474
+      penitent_rangeAttack_shoot_anim_27: 4384589961384011942
+      penitent_rangeAttack_shoot_anim_28: 7702818341346745699
+      penitent_rangeAttack_shoot_anim_29: -2705531892063092822
+      penitent_rangeAttack_shoot_anim_3: 1985942912758754961
+      penitent_rangeAttack_shoot_anim_30: 8991986194193669570
+      penitent_rangeAttack_shoot_anim_31: 5931956892349663849
+      penitent_rangeAttack_shoot_anim_32: 4227738442921974613
+      penitent_rangeAttack_shoot_anim_33: 1956439478
+      penitent_rangeAttack_shoot_anim_34: 1828369089
+      penitent_rangeAttack_shoot_anim_35: -713871074
+      penitent_rangeAttack_shoot_anim_36: -1481844210
+      penitent_rangeAttack_shoot_anim_37: -1157040725
+      penitent_rangeAttack_shoot_anim_4: 8716301258876066343
+      penitent_rangeAttack_shoot_anim_5: 8984734820677254545
+      penitent_rangeAttack_shoot_anim_6: -6210610036976124791
+      penitent_rangeAttack_shoot_anim_7: -1135013828280218184
+      penitent_rangeAttack_shoot_anim_8: -8300941677388373466
+      penitent_rangeAttack_shoot_anim_9: -4567384235282551007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

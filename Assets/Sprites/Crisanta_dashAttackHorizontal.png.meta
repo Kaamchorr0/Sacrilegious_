@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 85d459b0c188b6b49a83255c1ae0eeaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 971989468368925839
+    second: Crisanta_dashAttackHorizontal_0
+  - first:
+      213: 5079138115285801742
+    second: Crisanta_dashAttackHorizontal_1
+  - first:
+      213: -3764113352154315442
+    second: Crisanta_dashAttackHorizontal_2
+  - first:
+      213: 1505991963097472471
+    second: Crisanta_dashAttackHorizontal_3
+  - first:
+      213: 6345273663291243824
+    second: Crisanta_dashAttackHorizontal_4
+  - first:
+      213: 2939678487077840421
+    second: Crisanta_dashAttackHorizontal_5
+  - first:
+      213: 318372015461395932
+    second: Crisanta_dashAttackHorizontal_6
+  - first:
+      213: -3085398531895640186
+    second: Crisanta_dashAttackHorizontal_7
+  - first:
+      213: -3643725831947172092
+    second: Crisanta_dashAttackHorizontal_8
+  - first:
+      213: -2755444944918020073
+    second: Crisanta_dashAttackHorizontal_9
+  - first:
+      213: 3425983524991715399
+    second: Crisanta_dashAttackHorizontal_10
+  - first:
+      213: -1282907251880760227
+    second: Crisanta_dashAttackHorizontal_11
+  - first:
+      213: 3810959393703074823
+    second: Crisanta_dashAttackHorizontal_12
+  - first:
+      213: -1435249816815288544
+    second: Crisanta_dashAttackHorizontal_13
+  - first:
+      213: 4901711770864071061
+    second: Crisanta_dashAttackHorizontal_14
+  - first:
+      213: 1663263379898501747
+    second: Crisanta_dashAttackHorizontal_15
+  - first:
+      213: -9145197919334043255
+    second: Crisanta_dashAttackHorizontal_16
+  - first:
+      213: 969992351594474334
+    second: Crisanta_dashAttackHorizontal_17
+  - first:
+      213: -6178066524292724527
+    second: Crisanta_dashAttackHorizontal_18
+  - first:
+      213: -5009140432667779112
+    second: Crisanta_dashAttackHorizontal_19
+  - first:
+      213: -7396981234443434717
+    second: Crisanta_dashAttackHorizontal_20
+  - first:
+      213: 1139790068247850595
+    second: Crisanta_dashAttackHorizontal_21
+  - first:
+      213: -1354764944316503974
+    second: Crisanta_dashAttackHorizontal_22
+  - first:
+      213: 2379074899628514815
+    second: Crisanta_dashAttackHorizontal_23
+  - first:
+      213: 3308739517505755430
+    second: Crisanta_dashAttackHorizontal_24
+  - first:
+      213: 2109654948881356142
+    second: Crisanta_dashAttackHorizontal_25
+  - first:
+      213: 336442644918978921
+    second: Crisanta_dashAttackHorizontal_26
+  - first:
+      213: 5914512432833963319
+    second: Crisanta_dashAttackHorizontal_27
+  - first:
+      213: -3033707699699834207
+    second: Crisanta_dashAttackHorizontal_28
+  - first:
+      213: -4962106177451446522
+    second: Crisanta_dashAttackHorizontal_29
+  - first:
+      213: -8653494757710946170
+    second: Crisanta_dashAttackHorizontal_30
+  - first:
+      213: -8050295544382295762
+    second: Crisanta_dashAttackHorizontal_31
+  - first:
+      213: -6959785154472456682
+    second: Crisanta_dashAttackHorizontal_32
+  - first:
+      213: 6959381030237346327
+    second: Crisanta_dashAttackHorizontal_33
+  - first:
+      213: -7664810150732563565
+    second: Crisanta_dashAttackHorizontal_34
+  - first:
+      213: -4235990267552360120
+    second: Crisanta_dashAttackHorizontal_35
+  - first:
+      213: -6504642783914117204
+    second: Crisanta_dashAttackHorizontal_36
+  - first:
+      213: 1655164159213893704
+    second: Crisanta_dashAttackHorizontal_37
+  - first:
+      213: 6314931977207736300
+    second: Crisanta_dashAttackHorizontal_38
+  - first:
+      213: -671408871961236266
+    second: Crisanta_dashAttackHorizontal_39
+  - first:
+      213: -5734765496162297195
+    second: Crisanta_dashAttackHorizontal_40
+  - first:
+      213: 2668869852205993713
+    second: Crisanta_dashAttackHorizontal_41
+  - first:
+      213: 3465277638820494480
+    second: Crisanta_dashAttackHorizontal_42
+  - first:
+      213: -9176163393583895563
+    second: Crisanta_dashAttackHorizontal_43
+  - first:
+      213: -5023653433331610614
+    second: Crisanta_dashAttackHorizontal_44
+  - first:
+      213: -2454768386805313059
+    second: Crisanta_dashAttackHorizontal_45
+  - first:
+      213: 2102880831755566083
+    second: Crisanta_dashAttackHorizontal_46
+  - first:
+      213: -44039654771444790
+    second: Crisanta_dashAttackHorizontal_47
+  - first:
+      213: -8168922898904157020
+    second: Crisanta_dashAttackHorizontal_48
+  - first:
+      213: 8733682739952069932
+    second: Crisanta_dashAttackHorizontal_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 796
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84fc8b85433d7d00800000000000000
+      internalID: 971989468368925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 794
+        width: 147
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bd1c69439bc7640800000000000000
+      internalID: 5079138115285801742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 790
+        width: 174
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45898e69de23cbc0800000000000000
+      internalID: -3764113352154315442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 278
+        width: 179
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd940b16bb56e410800000000000000
+      internalID: 1505991963097472471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 791
+        width: 151
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dbd1f27c0fe0850800000000000000
+      internalID: 6345273663291243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 26
+        width: 147
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e1284206dbc820800000000000000
+      internalID: 2939678487077840421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 26
+        width: 140
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd600849a51b6400800000000000000
+      internalID: 318372015461395932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 534
+        width: 144
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ecd30678e23de0800000000000000
+      internalID: -1354764944316503974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 535
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdd76e240c240120800000000000000
+      internalID: 2379074899628514815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 534
+        width: 141
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295a3b8f010bed20800000000000000
+      internalID: 3308739517505755430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 535
+        width: 140
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d7b2affff64d10800000000000000
+      internalID: 2109654948881356142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 278
+        width: 141
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96940b19dc84ba400800000000000000
+      internalID: 336442644918978921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 279
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73523b2a8b1941250800000000000000
+      internalID: 5914512432833963319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crisanta_dashAttackHorizontal_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 151
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2260f9bea16e5d0800000000000000
+      internalID: -3033707699699834207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df8429c65ddc31d4b93caf7543f0e57b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crisanta_dashAttackHorizontal_0: 971989468368925839
+      Crisanta_dashAttackHorizontal_1: 5079138115285801742
+      Crisanta_dashAttackHorizontal_10: 3425983524991715399
+      Crisanta_dashAttackHorizontal_11: -1282907251880760227
+      Crisanta_dashAttackHorizontal_12: 3810959393703074823
+      Crisanta_dashAttackHorizontal_13: -1435249816815288544
+      Crisanta_dashAttackHorizontal_14: 4901711770864071061
+      Crisanta_dashAttackHorizontal_15: 1663263379898501747
+      Crisanta_dashAttackHorizontal_16: -9145197919334043255
+      Crisanta_dashAttackHorizontal_17: 969992351594474334
+      Crisanta_dashAttackHorizontal_18: -6178066524292724527
+      Crisanta_dashAttackHorizontal_19: -5009140432667779112
+      Crisanta_dashAttackHorizontal_2: -3764113352154315442
+      Crisanta_dashAttackHorizontal_20: -7396981234443434717
+      Crisanta_dashAttackHorizontal_21: 1139790068247850595
+      Crisanta_dashAttackHorizontal_22: -1354764944316503974
+      Crisanta_dashAttackHorizontal_23: 2379074899628514815
+      Crisanta_dashAttackHorizontal_24: 3308739517505755430
+      Crisanta_dashAttackHorizontal_25: 2109654948881356142
+      Crisanta_dashAttackHorizontal_26: 336442644918978921
+      Crisanta_dashAttackHorizontal_27: 5914512432833963319
+      Crisanta_dashAttackHorizontal_28: -3033707699699834207
+      Crisanta_dashAttackHorizontal_29: -4962106177451446522
+      Crisanta_dashAttackHorizontal_3: 1505991963097472471
+      Crisanta_dashAttackHorizontal_30: -8653494757710946170
+      Crisanta_dashAttackHorizontal_31: -8050295544382295762
+      Crisanta_dashAttackHorizontal_32: -6959785154472456682
+      Crisanta_dashAttackHorizontal_33: 6959381030237346327
+      Crisanta_dashAttackHorizontal_34: -7664810150732563565
+      Crisanta_dashAttackHorizontal_35: -4235990267552360120
+      Crisanta_dashAttackHorizontal_36: -6504642783914117204
+      Crisanta_dashAttackHorizontal_37: 1655164159213893704
+      Crisanta_dashAttackHorizontal_38: 6314931977207736300
+      Crisanta_dashAttackHorizontal_39: -671408871961236266
+      Crisanta_dashAttackHorizontal_4: 6345273663291243824
+      Crisanta_dashAttackHorizontal_40: -5734765496162297195
+      Crisanta_dashAttackHorizontal_41: 2668869852205993713
+      Crisanta_dashAttackHorizontal_42: 3465277638820494480
+      Crisanta_dashAttackHorizontal_43: -9176163393583895563
+      Crisanta_dashAttackHorizontal_44: -5023653433331610614
+      Crisanta_dashAttackHorizontal_45: -2454768386805313059
+      Crisanta_dashAttackHorizontal_46: 2102880831755566083
+      Crisanta_dashAttackHorizontal_47: -44039654771444790
+      Crisanta_dashAttackHorizontal_48: -8168922898904157020
+      Crisanta_dashAttackHorizontal_49: 8733682739952069932
+      Crisanta_dashAttackHorizontal_5: 2939678487077840421
+      Crisanta_dashAttackHorizontal_6: 318372015461395932
+      Crisanta_dashAttackHorizontal_7: -3085398531895640186
+      Crisanta_dashAttackHorizontal_8: -3643725831947172092
+      Crisanta_dashAttackHorizontal_9: -2755444944918020073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
